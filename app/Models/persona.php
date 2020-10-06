@@ -16,8 +16,6 @@ class Persona
      * @param string $nombres
      * @param string $apellidos
      * @param string $direccion
-     * @param float $telefono
-     * @param string $correo
      */
 
     //Metodo Constructor
