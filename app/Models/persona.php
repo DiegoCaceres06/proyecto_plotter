@@ -10,6 +10,7 @@ class Persona
     protected string $correo; //Correo de la Persona
 
     //Metodos
+    ///
 
     /**
      * Persona constructor.
