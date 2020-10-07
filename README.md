@@ -5,7 +5,7 @@ Repositorio para el desarrollo del proyecto Plotter
        -Angelica Maria Cardenas
        -Angie Tatiana Diaz
        -Laura Juliana Ramirez 
-       -Diego Alejandro Cardenas
+       -Diego Alejandro Caceres
        -Jonathan Martinez Barinas
   Ficha:
        -1834799 
